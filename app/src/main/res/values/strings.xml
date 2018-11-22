@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">final</string>
+    <string name="cabeçalho">Cabecalho</string>
+    <string name="meu_app">Meu App</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="m_dia">média</string>
+    <string name="chamada">chamada</string>
+    <string name="perfil">perfil</string>
+    <string name="configurações">configurações</string>
+    <string name="configuração">configuração</string>
+</resources>
